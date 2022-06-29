@@ -1,0 +1,34 @@
+---
+canvas: "http://8ec9bbe2-3523-49d7-abe2-3f196b62c4af"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Dude",
+            "purpose": "commenting",
+            "creator": {
+                "id": "lenaMK",
+                "name": "Lena Krause"
+            },
+            "created": "2022-06-29T19:26:13.601Z",
+            "modified": "2022-06-29T19:26:14.050Z"
+        }
+    ],
+    "target": {
+        "source": "http://8ec9bbe2-3523-49d7-abe2-3f196b62c4af",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"8729.48583984375\" cy=\"3628.9180908203125\" rx=\"172.91357421875\" ry=\"456.5272216796875\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://oncs.bib.umontreal.ca/_manifests/righettino-testmanifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a6f1704a-0aba-483e-b142-652a37e5649b.json",
+    "motivation": "commenting"
+}
