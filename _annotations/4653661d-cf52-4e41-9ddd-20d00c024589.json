@@ -1,0 +1,35 @@
+---
+canvas: "http://8ec9bbe2-3523-49d7-abe2-3f196b62c4af"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Lizard",
+            "purpose": "bookmarking",
+            "creator": {
+                "id": "lenaMK",
+                "name": "Lena Krause"
+            },
+            "created": "2022-06-29T19:30:32.913Z",
+            "modified": "2022-06-29T19:30:39.466Z"
+        }
+    ],
+    "target": {
+        "source": "http://8ec9bbe2-3523-49d7-abe2-3f196b62c4af",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3276.338623046875,3310.79296875,154.58984375,236.59423828125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://oncs.bib.umontreal.ca/_manifests/righettino-manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4653661d-cf52-4e41-9ddd-20d00c024589.json",
+    "motivation": "commenting"
+}
